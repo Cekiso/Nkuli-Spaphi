@@ -1,0 +1,89 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+#intro{
+background-image: url(https://images.wallpaperscraft.com/image/winter_snow_apples_cold_new_year_82116_1280x720.jpg);
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+filter: brightness(100%);
+}
+h1{
+  color:pink;
+  margin-top: -90px;
+}
+p {
+  color: white;
+  font-size: 23px;
+}
+.mask{
+  padding-top: 300px;
+}
+.fa {
+  /* padding: 20px; */
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+    color: yellow;
+}
+
+.fa-facebook {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.fa-whatsapp {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+.fa-google {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+.para{
+  color: blue;
+  font-size: 13px;
+}
+input {
+  border:o;
+  border-bottom: 2px solid black;
+  display: block;
+  decoration: none;
+}
+
+form{
+  border: 2px solid black;
+}
+ .input-field{
+  border: none;
+  border-bottom: 1px solid black;
+}
+#services{
+  background-color:#E3EBFF;
+}
+#back{
+  background-color: #8DE4FF;
+}
